@@ -8,8 +8,11 @@ spring:
     username: app_user
     password: App@123
     driver-class-name: oracle.jdbc.OracleDriver
-
   jpa:
-    database-platform: org.hibernate.dialect.Oracle12cDialect
+    #database-platform: org.hibernate.dialect.OracleDialect
     hibernate:
-      ddl-auto: update
+      ddl-auto: none
+    properties:
+      hibernate:
+    show-sql: false
+    open-in-view: false
