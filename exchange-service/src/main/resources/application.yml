@@ -1,0 +1,15 @@
+server:
+  port: 8000
+spring:
+  application:
+    name: exchange-service
+  datasource:
+    url: jdbc:oracle:thin:@//localhost:1523/PDB
+    username: app_user
+    password: App@123
+    driver-class-name: oracle.jdbc.OracleDriver
+
+  jpa:
+    database-platform: org.hibernate.dialect.Oracle12cDialect
+    hibernate:
+      ddl-auto: update
