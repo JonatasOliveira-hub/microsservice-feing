@@ -1,0 +1,15 @@
+INSERT INTO book (author, launch_date, price, title) VALUES ('Michael C. Feathers', TIMESTAMP '2017-11-29 13:50:05.878000', 8.57, 'Working Effectively with Legacy Code');
+INSERT INTO book (author, launch_date, price, title) VALUES ('Ralph Johnson, Erich Gamma, John Vlissides e Richard Helm', TIMESTAMP '2017-11-29 15:15:13.636000', 7.87, 'Design Patterns: Elements of Reusable Object-Oriented Software');
+INSERT INTO book (author, launch_date, price, title) VALUES ('Robert C. Martin', TIMESTAMP '2009-01-10 00:00:00.000000', 13.46, 'Clean Code');
+INSERT INTO book (author, launch_date, price, title) VALUES ('Douglas Crockford', TIMESTAMP '2017-11-07 15:09:01.674000', 11.71, 'JavaScript: The Good Parts');
+INSERT INTO book (author, launch_date, price, title) VALUES ('Steve McConnell', TIMESTAMP '2017-11-07 15:09:01.674000', 10.14, 'Code Complete');
+INSERT INTO book (author, launch_date, price, title) VALUES ('Martin Fowler e Kent Beck', TIMESTAMP '2017-11-07 15:09:01.674000', 15.38, 'Refactoring: Improving the Design of Existing Code');
+INSERT INTO book (author, launch_date, price, title) VALUES ('Eric Freeman, Elisabeth Freeman, Kathy Sierra, Bert Bates', TIMESTAMP '2017-11-07 15:09:01.674000', 19.23, 'Head First Design Patterns');
+INSERT INTO book (author, launch_date, price, title) VALUES ('Eric Evans', TIMESTAMP '2017-11-07 15:09:01.674000', 16.09, 'Domain-Driven Design');
+INSERT INTO book (author, launch_date, price, title) VALUES ('Brian Goetz e Tim Peierls', TIMESTAMP '2017-11-07 15:09:01.674000', 13.99, 'Java Concurrency in Practice');
+INSERT INTO book (author, launch_date, price, title) VALUES ('Susan Cain', TIMESTAMP '2017-11-07 15:09:01.674000', 21.51, 'Quiet: The Power of Introverts in a World That Cant Stop Talking');
+INSERT INTO book (author, launch_date, price, title) VALUES ('Roger S. Pressman', TIMESTAMP '2017-11-07 15:09:01.674000', 9.79, 'Software Engineering: A Practitioners Approach');
+INSERT INTO book (author, launch_date, price, title) VALUES ('Viktor Mayer-Schonberger e Kenneth Cukier', TIMESTAMP '2017-11-07 15:09:01.674000', 9.44, 'Big Data: Como extrair volume, variedade, velocidade e valor da avalanche de informação cotidiana');
+INSERT INTO book (author, launch_date, price, title) VALUES ('Richard Hunter e George Westerman', TIMESTAMP '2017-11-07 15:09:01.674000', 16.61, 'O verdadeiro valor de TI');
+INSERT INTO book (author, launch_date, price, title) VALUES ('Marc J. Schiller', TIMESTAMP '2017-11-07 15:09:01.674000', 7.87, 'The 11 Secrets of Highly Influential IT Leaders');
+INSERT INTO book (author, launch_date, price, title) VALUES ('Aguinaldo Aragon Fernandes e Vladimir Ferraz de Abreu', TIMESTAMP '2017-11-07 15:09:01.674000', 9.44, 'Implantando a governança de TI');

@@ -1,12 +1,12 @@
 server:
-  port: 8000
+  port: 8100
 spring:
   application:
-    name: exchange-service
+    name: book-service
   datasource:
     url: jdbc:oracle:thin:@//localhost:1523/PDB
-    username: exchange_user
-    password: Exchange@123
+    username: book_user
+    password: Book@123
     driver-class-name: oracle.jdbc.OracleDriver
   jpa:
     #database-platform: org.hibernate.dialect.OracleDialect
